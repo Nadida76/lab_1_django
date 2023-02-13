@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efa1059a-c1b3-4a80-9b2c-a23b8a55d8cd" name="Changes" comment="commit -m &quot;first commit&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/labs_python_semestre2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/cli-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/cli-arm64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/db_project_name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gui-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gui-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gui-arm64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/pip3.10.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/pip3.11.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/t64-arm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/w64-arm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_project/db_project_name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/.idea/labs_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/first_project/first_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/first_project/first_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/first_project/first_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/first_project/first_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/first_project/first_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/first_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/helloworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab1/mygroup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L6F8hjTvEIxgQJfZKLrDK7WSTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/024/PycharmProjects/labs_python_semestre2&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;C++&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\024\PycharmProjects\labs_python_semestre2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mygroup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="labs_python_semestre2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab1/mygroup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mygroup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa1059a-c1b3-4a80-9b2c-a23b8a55d8cd" name="Changes" comment="" />
+      <created>1675183469945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675183469945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git remote add origin https://github.com/Nadida76/lab_1_django.git" />
+    <MESSAGE value="git commit -m &quot;first commit&quot;" />
+    <MESSAGE value="branch -M main" />
+    <MESSAGE value="commit -m &quot;first commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit -m &quot;first commit&quot;" />
+  </component>
+</project>
